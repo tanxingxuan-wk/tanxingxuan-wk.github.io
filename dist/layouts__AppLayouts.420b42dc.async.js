@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{K2v7:function(n,c,o){"use strict";o.r(c);const s=n=>n.children;c["default"]=s}}]);
